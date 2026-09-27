@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1783147301 source:e:\compile\csecpp\main.cpp
+	<iostream>
+
+1783147363 source:e:\compile\csecpp\src\cse425.cpp
+	"CSE425.h"
+
+1783147362 e:\compile\csecpp\include\cse425.h
+

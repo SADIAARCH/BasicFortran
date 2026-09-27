@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1782796804 source:e:\compile\copl-3\main.cpp
+	<iostream>
+	<vector>
+

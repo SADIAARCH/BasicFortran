@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1783152186 source:e:\compile\csec\main.c
+	<stdio.h>
+	<stdlib.h>
+
